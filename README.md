@@ -17,5 +17,5 @@ $ python3 setup.py
 ```
 * Generating password
 ```bash
-$ python3 payload.py
+$ python3 passgen.py
 ```
