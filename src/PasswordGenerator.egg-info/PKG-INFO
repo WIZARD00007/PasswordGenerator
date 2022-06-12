@@ -1,0 +1,40 @@
+Metadata-Version: 2.1
+Name: PasswordGenerator
+Version: 1.3
+Summary: Generate passwords for bruteforce attack
+Home-page: https://github.com/WIZARD00007/PasswordGenerator
+Author: Akshay
+Author-email: akshaysavanoor@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.10
+Classifier: License :: OSI Approved :: GNU General Public License v2 or later (GPLv2+)
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
+#Password Generator
+
+##Installation
+
+
+* Update and upgrade your machine
+```bash
+$ apt update && apt upgrade
+```
+* Clone project
+```bash
+$ git clone https://github.com/WIZARD00007/PasswordGenerator
+```
+* Installing requirements
+```bash
+$ python3 setup.py 
+```
+* Generating password
+```bash
+$ python3 payload.py
+```
+
+
